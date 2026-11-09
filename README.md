@@ -1,4 +1,4 @@
-# Transformacoes-campos-potenciais
+# Transformacoes de campos potenciais
 
 [Vanderlei C. Oliveira Jr.](http://lattes.cnpq.br/4332841435949533)
 Pesquisador Titular
